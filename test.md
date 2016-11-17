@@ -1,4 +1,4 @@
-****Testing Markdown on github.io
+## Testing Markdown on github.io ##
 
 This is *italic*
 
